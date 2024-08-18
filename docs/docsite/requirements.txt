@@ -10,7 +10,7 @@ ansible-pygments==0.1.1
     # via sphinx-ansible-theme
 babel==2.13.1
     # via sphinx
-certifi==2023.7.22
+certifi==2024.7.4
     # via requests
 charset-normalizer==3.3.2
     # via requests
@@ -19,7 +19,7 @@ docutils==0.18.1
     #   -r requirements.in
     #   sphinx
     #   sphinx-rtd-theme
-idna==3.4
+idna==3.7
     # via requests
 imagesize==1.4.1
     # via sphinx
@@ -37,7 +37,7 @@ pygments==2.16.1
     #   sphinx
 pyyaml==6.0.1
     # via -r requirements.in
-requests==2.31.0
+requests==2.32.2
     # via sphinx
 snowballstemmer==2.2.0
     # via sphinx
@@ -70,5 +70,5 @@ sphinxcontrib-qthelp==1.0.6
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.9
     # via sphinx
-urllib3==2.1.0
+urllib3==2.2.2
     # via requests
